@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dev-app-empresariales.iml" filepath="$PROJECT_DIR$/.idea/dev-app-empresariales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isil-tech-advance/isil-tech-advance.iml" filepath="$PROJECT_DIR$/isil-tech-advance/isil-tech-advance.iml" />
+    </modules>
+  </component>
+</project>

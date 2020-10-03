@@ -1,0 +1,17 @@
+
+    <resources>
+        <string name="app_name">Registro de Cliente</string>
+        <string name="txtdni">Ingresar DNI</string>
+        <string name="txtdistrito">Ingresar Distrito</string>
+        <string name="txtedad">Ingresar Edad</string>
+        <string name="txtnombre">Ingresar Nombre</string>
+        <string name="txttelefono">Ingresar Teléfono</string>
+        <string name="txtemail">Ingresar E-mail</string>
+        <string name="txtsexo">Ingresar Sexo</string>
+        <string name="txtingresos">Ingresar Ingresos</string>
+        <string name="btnregistrar">Registrar</string>
+        <string name="btnconsultar">Consultar</string>
+        <string name="btneliminar">Eliminar</string>
+        <string name="btnactualizar">Actualizar</string>
+    </resources>
+
